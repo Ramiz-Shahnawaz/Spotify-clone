@@ -1,0 +1,14 @@
+<svg id='Entertainment_Control_Button_Next_20' width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='20' height='20' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(1.14 0 0 1.14 10 10)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 6.5 0)" >
+<line style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" x1="0" y1="-6.5" x2="0" y2="6.5" />
+</g>
+<g transform="matrix(1 0 0 1 -1.93 0.02)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-5.07, -7.02)" d="M 0.5 11.66 C 0.49899976979693506 12.026453947779908 0.6985195549095364 12.364102814893542 1.02 12.540000000000001 C 1.3294010767585032 12.718632794954082 1.7105989232414973 12.718632794954082 2.0200000000000005 12.540000000000001 L 9.21 7.84 C 9.495172797300043 7.655796570142877 9.66741360134998 7.339491425357194 9.66741360134998 7 C 9.66741360134998 6.660508574642806 9.495172797300043 6.344203429857123 9.21 6.16 L 2 1.5 C 1.6905989232414969 1.321367205045918 1.3094010767585027 1.3213672050459182 0.9999999999999996 1.5000000000000002 C 0.6785195549095367 1.6758971851064592 0.47899976979693515 2.013546052220092 0.47999999999999987 2.38 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
